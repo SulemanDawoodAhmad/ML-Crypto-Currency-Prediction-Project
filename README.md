@@ -7,3 +7,5 @@ The data for the project was collected on 15 cryptocurrencies for a time period 
 XGBoost and Neural Networks were the two ML techniques used to model the probability of stop loss and take profit. A final XGBoost model with an AUC of 90% on train data and 88% on test data was selected using Grid Search and the model was interpreted using SHAP analysis. 
 
 In this repository, I have included the code files for Data Processing and Feature Engineering and Model Building and Evaluation. The code has comments that will guide you on what each step is supposed to do. 
+
+Feel free to give your feedback or let me know if you have any questions!
